@@ -13,6 +13,8 @@ Study materials
 Implemented two step moters control with two potentiometers.
 - https://github.com/jihyopark/2019SummerIntern/blob/master/Jul09_2019.MOV
 
+Tested pressure sensor with Arduino.
+
 Study materials
 - https://www.youtube.com/watch?v=abWCy_aOSwY&list=PLA567CE235D39FA84&index=3
 - https://www.youtube.com/watch?v=js4TK0U848I&list=PLA567CE235D39FA84&index=4
