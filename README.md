@@ -10,6 +10,8 @@ Study materials
 
 **7/9/19**
 
+Implemented two step moters control with two potentiometers.
+
 Study materials
 - https://www.youtube.com/watch?v=abWCy_aOSwY&list=PLA567CE235D39FA84&index=3
 - https://www.youtube.com/watch?v=js4TK0U848I&list=PLA567CE235D39FA84&index=4
