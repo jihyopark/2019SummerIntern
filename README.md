@@ -11,6 +11,7 @@ Study materials
 **7/9/19**
 
 Implemented two step moters control with two potentiometers.
+- https://github.com/jihyopark/2019SummerIntern/blob/master/Jul09_2019.MOV
 
 Study materials
 - https://www.youtube.com/watch?v=abWCy_aOSwY&list=PLA567CE235D39FA84&index=3
