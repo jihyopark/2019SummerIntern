@@ -18,3 +18,11 @@ Tested pressure sensor with Arduino.
 Study materials
 - https://www.youtube.com/watch?v=abWCy_aOSwY&list=PLA567CE235D39FA84&index=3
 - https://www.youtube.com/watch?v=js4TK0U848I&list=PLA567CE235D39FA84&index=4
+
+**7/10/19**
+
+Started making SIR using DC motors, made it going 8 derections, stop, increase/decrease speed, turn right/left controlled by keyboard.
+
+**7/11/19**
+
+Made SIR able to park itself by attatching ultrasonic sensors.
