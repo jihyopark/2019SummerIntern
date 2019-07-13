@@ -26,3 +26,7 @@ Started making SIR using DC motors, made it going 8 derections, stop, increase/d
 **7/11/19**
 
 Made SIR able to park itself by attatching ultrasonic sensors.
+
+**7/12/19**
+
+Studied PID control and implemented P and part of I.
